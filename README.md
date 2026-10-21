@@ -8,8 +8,8 @@ The scripts are functional and annotated rather than polished. They are the anal
 
 | Folder | Question | Methods | Status |
 |---|---|---|---|
-| [`placement-year-lmm/`](placement-year-lmm/) | How do sexual selection intensity  and metapopulation structure shape reproductive tissue investment in male and female seed beetles (*Callosobruchus maculatus*)? | Linear mixed models (`lme4`), residual diagnostics (`DHARMa`), marginal means and effect sizes (`emmeans`) | First-author paper, [*Scientific Reports* (2025)](https://doi.org/10.1038/s41598-025-00180-6) |
-| [`vineyard-soil/`](vineyard-soil/) | How do cover crops and tillage affect the soil properties of a Meditteranean vineyard? | LMM vs LM comparison with likelihood ratio tests, non-parametric fallback (Kruskal-Wallis, Dunn), correlations, `ggplot2` figures | Undergraduate dissertation |
+| [`placement-year/`](placement-year-lmm/) | How do sexual selection intensity  and metapopulation structure shape reproductive tissue investment in male and female seed beetles (*Callosobruchus maculatus*)? | Linear mixed models (`lme4`), residual diagnostics (`DHARMa`), marginal means and effect sizes (`emmeans`) | First-author paper, [*Scientific Reports* (2025)](https://doi.org/10.1038/s41598-025-00180-6) |
+| [`dissertation/`](vineyard-soil/) | How do cover crops and tillage affect the soil properties of a Meditteranean vineyard? | LMM vs LM comparison with likelihood ratio tests, non-parametric fallback (Kruskal-Wallis, Dunn), correlations, `ggplot2` figures | Undergraduate dissertation |
 
 ## What the scripts show
 
